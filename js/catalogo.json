@@ -1,0 +1,66 @@
+[
+    {
+        "codigo": "CCOC05",
+        "nombre": "Olla de Cobre (5 Litros)",
+        "descripcion": "Se puede cocinar distintos platos. Ideal para verduras, garrapiñada, mariscos, etc. No afecta el sabor, sino que lo realza.",
+        "precio": 10999,
+        "ruta": "img/olla_cobre_5lts.jpeg"
+    },
+    {
+        "codigo": "CCOC10",
+        "nombre": "Olla de Cobre (10 Litros)",
+        "descripcion": "Version XL de la olla comun. Ideal para familias.",
+        "precio": 13999,
+        "ruta": "img/olla_cobre_10lts.jpeg"
+    },
+    {
+        "codigo": "CCOC25",
+        "nombre": "Olla de Cobre (25 Litros)",
+        "descripcion": "Version XXXL y con otro estilo al de la olla comun. La mas grande de las ollas. Util para reuniones, eventos o para numerosos comensales.",
+        "precio": 41999,
+        "ruta": "img/olla_cobre_25lts.jpg"
+    },
+    {
+        "codigo": "CCJC01",
+        "nombre": "Jarra de Cobre (1 Litros)",
+        "descripcion": "Resistente y elegante. Si se utiliza con el agua, esta presentara algunas propiedades especiales para el organismo.",
+        "precio": 4999,
+        "ruta": "img/jarra_cobre_1lts.jpg"
+    },
+    {
+        "codigo": "CCJC02",
+        "nombre": "Jarra de Cobre (2 Litros)",
+        "descripcion": "Version XL de la jarra comun. Este cuenta con otro modelo.",
+        "precio": 7999,
+        "ruta": "img/jarra_cobre_2lts.jpg"
+    },
+    {
+        "codigo": "CCPC01",
+        "nombre": "Pava de Cobre (1 Litros)",
+        "descripcion": "Al igual que la jarra es ideal para el agua por sus beneficios y propiedades. Tiene un buen soporte y conserva el calor.",
+        "precio": 6999,
+        "ruta": "img/pava_cobre_1lts.jpg"
+    },
+    {
+        "codigo": "CCPC02",
+        "nombre": "Pava de Cobre (2 Litros)",
+        "descripcion": "Version XL de la Pava comun. Mayor capacidad y conserva mejor el calor. Alta durabilidad.",
+        "precio": 8999,
+        "ruta": "img/pava_cobre_2lts.jpg"
+    },
+    {
+        "codigo": "CCCC01",
+        "nombre": "Copa de Cobre (1 unidad)",
+        "descripcion": "Sirve tanto como decoracion como para uso domestico. Alta durabilidad.",
+        "precio": 1999,
+        "ruta": "img/copa_cobre_250ml.jpg"
+    },
+    {
+        "codigo": "CCAC03",
+        "nombre": "Alambique de Cobre (3 Litros)",
+        "descripcion": "Permite destilar alcoholes tales como Vodka, Ron, Grapa, Whisky, Gin, aceites esenciales y afines.",
+        "precio": 125999,
+        "ruta": "img/alambique_cobre_3lts.jpg"
+    }
+]
+
